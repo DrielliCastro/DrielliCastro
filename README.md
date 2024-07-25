@@ -1,5 +1,5 @@
   👋 Hi, I’m @Drielli Castro
-- 🌱 I’m currently learning  C#, PYTHON
+- 🌱 I’m currently learning  HTML, CSS
 - 📫 How to reach me  driellicastro2@gmail.com
 
 <!---
